@@ -1,7 +1,5 @@
 # slidev-theme-tweedegolf
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-tweedegolf?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-tweedegolf)
-
 A theme for [Slidev](https://github.com/slidevjs/slidev).
 
 ## Install
